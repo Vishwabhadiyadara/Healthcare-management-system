@@ -13,7 +13,7 @@ In the current healthcare landscape, our hospital holds extensive patient data y
 ![download (1)](https://github.com/Vishwabhadiyadara/Healthcare-management-system/assets/110348340/e64316c0-ca9c-4d21-aac3-45d4c97b2702)
 
 ### Workload Distribution
-![Workload Distribution]("![download (2)](https://github.com/Vishwabhadiyadara/Healthcare-management-system/assets/110348340/1969a98c-5601-4052-8899-5319ec71c72b)"
+![download (2)](https://github.com/Vishwabhadiyadara/Healthcare-management-system/assets/110348340/1969a98c-5601-4052-8899-5319ec71c72b)
 
 ## Goals
 
